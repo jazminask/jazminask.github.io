@@ -14,8 +14,7 @@ body {
   background-color: rgba(0, 0, 0, 0.5);
   background-position: center;
   border-radius: 40px; 
-  margin-top: 40px;
-  margin-bottom: 20px;
+  margin: 0 auto;
 } 
 
 .links ul { 
@@ -33,7 +32,6 @@ body {
 a { 
   color: white;
   text-decoration: none;
-  text-align: center;
 } 
 
 a:hover { 
