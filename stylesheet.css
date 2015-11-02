@@ -13,5 +13,7 @@ body {
 
 .main_header { 
   background-color: grey;
+  font-family: 'Quicksand', sans-serif;
+  padding: 10px;
 } 
 
