@@ -5,3 +5,9 @@ h1 {
   color: #168484;
 } 
 
+body { 
+  background: url("https://kaabrah1.files.wordpress.com/2013/02/tumblr_lu6pj2jq0u1qjhyk2o1_500.jpg");
+  background-size: cover; 
+  background-position: center;
+} 
+
