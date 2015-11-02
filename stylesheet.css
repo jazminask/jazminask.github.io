@@ -34,9 +34,11 @@ a {
   color: white;
   text-decoration: none;
   display: inline;
+  text-align: center;
 } 
 
 a:hover { 
   color: #790b35;
+  text-align: center;
 } 
 
