@@ -11,13 +11,17 @@ body {
   background-position: center;
 } 
 .links { 
-  background-color: grey;
+  background-color: rgba(0, 0, 0, 0.5);
   background-position: center;
   border-radius: 40px; 
   margin-top: 20px;
   margin-bottom: 20px;
 } 
-  
+
+.links ul { 
+  padding: 10px;
+} 
+
 .links ul li { 
   display: inline;
   font-size: 20px;
