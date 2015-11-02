@@ -11,7 +11,7 @@ body {
   background-position: center;
 } 
 
-.main_header { 
+header { 
   background-color: grey;
   font-family: 'Quicksand', sans-serif;
   padding: 10px;
