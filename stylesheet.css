@@ -36,3 +36,7 @@ a {
   text-align: center;
 } 
 
+a:hover { 
+  color: #790b35;
+} 
+
