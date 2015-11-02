@@ -13,11 +13,13 @@ body {
 .links { 
   background-color: grey;
   background-position: center;
-  font-family: 'Quicksand', sans-serif;
-  padding: 0px 10px 0px 10px;
   border-radius: 40px;
+} 
+  
+.links ul li { 
   display: inline;
   font-size: 20px;
+  font-family: 'Quicksand', sans-serif;
 } 
 
 a { 
