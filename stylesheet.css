@@ -11,3 +11,7 @@ body {
   background-position: center;
 } 
 
+#grey_backdrop { 
+  background-color: grey;
+} 
+
